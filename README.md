@@ -23,8 +23,5 @@ For each category (examples trousers etc)
 2. Get top 100 candidates for each image using stylenet and euclidean distance as a measure.
 3. Use the euclidean distance as a measure to get the top-k accuracy from the extracted features.
 
-The sample numpy files for labels and trainids can be found at:
-https://drive.google.com/open?id=1zOAXY5tDG_FLM-yunN11r3VTUrq8c1Ly
-
-The pre-trained model on fashion-550k dataset can be found at:
-https://drive.google.com/open?id=1rP9HmsriSiRHoqmP0xQcyVMv70hGPg1G
+The sample numpy files for labels and trainids and the pre-trained model on fashion-550k dataset can be found at:
+https://drive.google.com/drive/folders/1WqK1e18roNaSSD2uia4axdTQQ3-hvkDO?usp=sharing
